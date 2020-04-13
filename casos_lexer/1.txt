@@ -1,0 +1,10 @@
+proc # Comentario comentario
+
+# Algunas palabras reservadas
+def int return print 
+len str object bool 
+class global while elif 
+pass else False True 
+for not None break 
+nonlocal lambda or raise
+finally from try in
